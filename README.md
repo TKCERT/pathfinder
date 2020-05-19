@@ -6,6 +6,7 @@ The traceroute information can give insight into the network topology, e.g.:
 * Identify separate network segments
 
 The following graph shows an example of the traceroute for the targets scanme.nmap.org and nmap.org (sudo nmap -sn --traceroute -oA nmap scanme.nmap.org nmap.org):
+
 ![pathfinder-example](pathfinder-example-nmap.png "Pathfinder example")
 
 # Why not just use Zenmap
